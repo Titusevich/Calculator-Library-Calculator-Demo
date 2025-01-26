@@ -2,7 +2,7 @@ package org.example.app.service;
 
 import org.example.app.utils.Rounder;
 
-public class SubstractService {
+public class SubtractService {
 
     public String getResult(double num1, double num2) {
         return roundResult(subtract(num1, num2));
